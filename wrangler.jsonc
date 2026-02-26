@@ -20,9 +20,6 @@
 			}
 		},
 		"production": {
-			"limits": {
-				"cpu_ms": 100
-			},
 			"vars": {
 				"ENVIRONMENT": "production",
 				"LOG_LEVEL": "error"
